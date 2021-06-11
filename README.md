@@ -13,5 +13,21 @@ possibilitando a identificação de conteúdo malicioso detectável por antivír
 <img src="https://user-images.githubusercontent.com/62677231/121695084-1bce9180-caa1-11eb-9463-712ff20d219b.jpg" width="300" height="500"> 
 <img src="https://user-images.githubusercontent.com/62677231/121695151-2be67100-caa1-11eb-9ec0-192f4cf7970b.jpg" width="300" height="500"> 
 
+# 🖥 Tecnologias 🖥
+
+- axios
+- styled-components
+- react navigation
+- lottie-react-native
+
+# ⚙ Instalação ⚙
+
+- git clone https://github.com/Marcos-Nacimento/POD-SCAN
+- yarn install ou npm install
+
+# 🚀 Execução 🚀
+
+- yarn start ou npm start
+
 
 
